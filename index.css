@@ -1,0 +1,33 @@
+<html>
+<head>
+    <title>This is Christian's first Web Page!</title>
+    <style>
+        p { text-align: justify;
+           font-family: courier;
+          }
+        h1 { background-color: #ffddcc; }
+        h3 { background-color: #88ff88; }
+
+        #dartmouth {
+            border: red dashed;
+            padding: 5px;
+            margin: 10px;
+            height: 230px;
+            width: 200px;
+            background-color: #f9e1b5;
+            color: #3322dd;
+            float: right;
+        }
+        #dartmouth-img {
+            width: 90%;
+            height: 90%;
+        }
+
+        th, td {
+            background-color: #ddd33dd;
+            padding: 3px;
+        }
+        .data {
+            color: #666666;
+            font-family: Courier;
+        }
